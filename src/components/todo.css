@@ -1,0 +1,15 @@
+.todo table{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: white;
+    color: blackgit ;
+}
+
+table th{
+    padding: 8px;
+    font-size: 20pt;
+}
+table td{
+    padding: 19px;
+}

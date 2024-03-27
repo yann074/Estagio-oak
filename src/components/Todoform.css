@@ -1,0 +1,32 @@
+section{
+    display: flex;
+    flex-direction: column;
+    
+    color: white;
+    text-transform: uppercase;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    padding: 10px 200px 10px 10px;
+    border: none;
+    margin: 5px;
+    box-shadow: 10px 8px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+input:focus{
+    border: none;
+}
+
+input .select .op{
+    padding: 10px 200px 10px 10px;
+    border: none;
+    margin: 5px;
+    box-shadow: 10px 8px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
